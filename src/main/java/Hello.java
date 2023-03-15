@@ -7,6 +7,7 @@ public class Hello {
 
         System.out.println("손가락 푸는중");
 
+        System.out.println("입문 너무 어렵다");
 
     }
 }

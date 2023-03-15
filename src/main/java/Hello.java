@@ -5,5 +5,8 @@ public class Hello {
 
         System.out.println("Edit Java Code!!");
 
+        System.out.println("손가락 푸는중");
+
+
     }
 }
